@@ -1,11 +1,13 @@
 
-# -UI-PokeDex-App-Flutter-Dart-Retrieving-Data-from-Remote-APIs
+# UI PokeDex App-Flutter-Dart-Retrieving-Data from-Remote APIs
 
 Creating a Data Model and Fetching Pokemon Information, Listing Data with Future Builder, Creating Responsive AppTitle Widget, Applying Screen Utils and Google Fonts Packages, Using Orientation Builder and ListItem Widget, Completing the List and Using CacheNetworkImage, Using Stack Widget Detail Page,Detail Page Landscape Mode,
 
 
-## Ekran Görüntüleri
+## Screenshots
 ![a296f9c3-cfb5-4d7e-8e54-cb9d6e2c13ef](https://github.com/Elcieren/-UI-PokeDex-App-Flutter-Dart-Retrieving-Data-from-Remote-APIs/assets/117864036/6695140c-56ed-44d2-86c9-66490079a429)
+
+## Designs realized in Horizontal and Vertical positions in the application
 
 ![Ekran görüntüsü 2023-12-08 061426](https://github.com/Elcieren/-UI-PokeDex-App-Flutter-Dart-Retrieving-Data-from-Remote-APIs/assets/117864036/bc8ce1c2-24b2-42db-8f4d-261e3cf17a0b)
 
